@@ -32,13 +32,13 @@ interface Partner {
   logo: string
 }
 
-interface PricingTier {
-  name: string
-  price: string
-  duration: string
-  features: string[]
-  popular?: boolean
-}
+// interface PricingTier {
+//   name: string
+//   price: string
+//   duration: string
+//   features: string[]
+//   popular?: boolean
+// }
 
 interface FAQ {
   question: string
